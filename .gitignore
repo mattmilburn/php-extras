@@ -1,0 +1,5 @@
+### OS and Software generated files ###
+.DS_Store*
+Thumbs.db
+._*
+.idea/
