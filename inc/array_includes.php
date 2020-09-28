@@ -4,7 +4,7 @@ if ( ! function_exists( 'array_includes' ) ) {
   /**
    * Returns true if the $cb for one of items in $arr returns true.
    *
-   * @param string   $arr Array.
+   * @param array    $arr Array.
    * @param callable $cb  Callback returning true or false.
    *
    * @return boolean
